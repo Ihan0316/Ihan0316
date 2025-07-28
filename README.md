@@ -3,14 +3,14 @@
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Ihan's%20git%F0%9F%A4%97)
 
-  ![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=999&lines=Hi+there+%F0%9F%91%8B%2C+Welcome+to+my+Page+%F0%9F%91%8B%2C+I'm+Ihan)
+  
 </div>
 
 <div>
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a AI Student from South Korea.<br/>
+  ![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=999&lines=Hi+there+%F0%9F%91%8B%2C+Welcome+to+my+Page+%F0%9F%91%8B%2C+I'm+Ihan)
   
   <br/>
   <br/>
