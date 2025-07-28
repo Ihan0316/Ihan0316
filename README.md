@@ -57,7 +57,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihan0316)](https://github.com/anuraghazra/github-readme-stats)
   </br>
   ![snake gif](https://github.com/Ihan0316/Ihan0316/blob/output/github-contribution-grid-snake.svg)
-  ![snake gif](https://github.com/Ihan0316/Ihan0316/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
