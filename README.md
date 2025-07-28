@@ -55,6 +55,10 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihan0316)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihan0316)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
   
 </div>
 
