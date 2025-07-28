@@ -56,7 +56,9 @@
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihan0316)](https://github.com/anuraghazra/github-readme-stats)
   </br>
-  <img src="https://github.com/Ihan0316/Ihan0316/blob/output/github-contribution-grid-snake.svg"/>
+![github contribution grid snake animation](https://raw.githubusercontent.com/Ihan0316/Ihan0316/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Ihan0316/Ihan0316/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 </div>
 
 
