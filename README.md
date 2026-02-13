@@ -51,10 +51,6 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihan0316)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihan0316)](https://github.com/anuraghazra/github-readme-stats)
-  </br>
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Ihan0316/Ihan0316/output/github-snake.svg)
 </div>
 
