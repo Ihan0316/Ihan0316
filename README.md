@@ -2,26 +2,44 @@
 
 # Ihan
 
-### AI · FullStack · Product Development
+### AI Product Engineer · FullStack Developer · UX-focused Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Products;FullStack+Developer;UX+Focused+Engineering;Automation+%26+System+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI+Products;Designing+Real-time+Systems;FullStack+%2B+AI+Architecture;Automation+%26+Workflow+Engineering" />
 
 <br/>
 
-<a href="https://github.com/Ihan0316">
-  <img src="https://img.shields.io/github/followers/Ihan0316?style=for-the-badge&logo=github" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Ihan0316&color=blueviolet&style=flat-square" />
 
 </div>
 
 ---
 
-# About Me
+# About
 
 - Building AI-based products and workflows
 - Interested in UX-oriented engineering
-- Working on FullStack + AI Architecture
-- Focusing on automation and scalable systems
+- Focused on scalable FullStack architecture
+- Exploring automation and agent systems
+
+---
+
+# Currently Building
+
+## Alan Lab
+AI-based educational workflow platform
+
+- AI question generation
+- Phase-driven learning architecture
+- UX-centered learning flow
+
+---
+
+## Ragexam
+Real-time interaction exam platform
+
+- SSE-based real-time communication
+- Event-driven architecture
+- Large-scale user workflow design
 
 ---
 
@@ -30,40 +48,43 @@
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
 
-## Frameworks & Libraries
+## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flask,django,pytorch,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
+</p>
+
+## AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
 ## Infra & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,docker,firebase,github,figma,slack" />
+<img src="https://skillicons.dev/icons?i=docker,mysql,firebase,github,figma,slack" />
 </p>
 
 ---
 
-# Featured Projects
+# Interests
 
-## Alan Lab
-> AI 기반 문제 생성 및 학습 시스템
-
-- Phase 기반 학습 구조
-- AI 생성 파이프라인
-- UX 중심 학습 플로우 설계
-
----
-
-## Ragexam
-> 실시간 인터랙션 기반 시험 플랫폼
-
-- SSE / 실시간 상태 처리
-- FullStack Architecture
-- 사용자 행동 중심 UX 설계
+- AI Product Engineering
+- Human-centered UX
+- Agent Workflow Systems
+- Automation Pipeline
+- Real-time Infrastructure
+- Scalable Architecture
 
 ---
 
@@ -71,21 +92,17 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ihan0316&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ihan0316&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihan0316&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihan0316&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# Activity
+# Activity Graph
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ihan0316&theme=tokyonight&hide_border=true" />
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ihan0316&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -97,8 +114,17 @@
 
 ---
 
+# Metrics
+
+<p align="center">
+  <img src="https://github.com/lowlighter/metrics/blob/examples/github-metrics.svg" />
+</p>
+
+---
+
 <div align="center">
 
-### “Build something users actually want.”
+### “Build products users actually want.”
 
 </div>
+
