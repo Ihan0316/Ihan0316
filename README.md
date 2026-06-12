@@ -91,7 +91,7 @@ AI-powered exam platform with verifiable RAG architecture.
 # Terminal Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ihan0316/Ihan0316/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://github.com/lowlighter/metrics/blob/examples/github-metrics.svg" />
 </div>
 
 ---
@@ -104,12 +104,4 @@ AI-powered exam platform with verifiable RAG architecture.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ihan0316/Ihan0316/output/github-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ihan0316/Ihan0316/output/github-snake.svg">
   </picture>
-</div>
-
----
-
-<div align="center">
-
-### "Build products users actually want."
-
 </div>
