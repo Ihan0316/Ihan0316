@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Ihan — AI Product Engineer">
+  <defs>
+    <linearGradient id="glow" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#2997ff" stop-opacity="0.16"/>
+      <stop offset="70%" stop-color="#2997ff" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#2997ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2997ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2997ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#2997ff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#2997ff" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#2997ff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="260" rx="16"/></clipPath>
+  </defs>
+
+  <style>
+    .fx      { animation: rise .8s cubic-bezier(.25,.1,.25,1) both; }
+    .d1      { animation-delay: .05s } .d2 { animation-delay: .18s }
+    .d3      { animation-delay: .30s } .d4 { animation-delay: .42s }
+    .d5      { animation-delay: .50s } .d6 { animation-delay: .58s }
+    .rule    { animation: grow 1.1s cubic-bezier(.25,.1,.25,1) .28s both; transform-origin: 600px 119px; }
+    .orb     { animation: drift 13s ease-in-out infinite alternate; }
+    .roll    { animation: roll 10.5s linear infinite; opacity: 0; }
+    .r2      { animation-delay: 3.5s } .r3 { animation-delay: 7s }
+    @keyframes rise  { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+    @keyframes grow  { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+    @keyframes drift { from { transform: translate(-46px, -10px) } to { transform: translate(46px, 10px) } }
+    @keyframes roll  {
+      0%   { opacity: 0; transform: translateY(5px) }
+      4%   { opacity: 1; transform: none }
+      30%  { opacity: 1; transform: none }
+      34%  { opacity: 0; transform: translateY(-5px) }
+      100% { opacity: 0; transform: translateY(-5px) }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .fx, .rule, .orb { animation: none }
+      .roll { animation: none; opacity: 0 }
+      .roll:first-of-type { opacity: 1 }
+    }
+  </style>
+
+  <rect width="1200" height="260" rx="16" fill="#0d1117"/>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="url(#glow)"/>
+    <ellipse class="orb" cx="600" cy="40" rx="420" ry="150" fill="url(#orb)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="16" fill="none" stroke="#30363d"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <text class="fx d1" x="600" y="96" font-size="64" font-weight="600" fill="#f5f5f7" letter-spacing="-2">Ihan</text>
+    <rect class="rule" x="520" y="118" width="160" height="2" fill="url(#rule)"/>
+    <text class="fx d2" x="600" y="154" font-size="22" font-weight="500" fill="#f5f5f7" letter-spacing="-0.3">AI Product Engineer</text>
+
+    <g font-size="15" font-weight="400" fill="#a1a1a6">
+      <text class="roll" x="600" y="186">Workflow Engineering</text>
+      <text class="roll r2" x="600" y="186">Automation by Design</text>
+      <text class="roll r3" x="600" y="186">Real-time Systems</text>
+    </g>
+
+    <g font-size="12.5" font-weight="500">
+      <g class="fx d4"><rect x="452" y="206" width="72" height="26" rx="13" fill="#1d1d1f"/><text x="488" y="223.5" fill="#a1a1a6">RAG</text></g>
+      <g class="fx d5"><rect x="532" y="206" width="136" height="26" rx="13" fill="#1d1d1f"/><text x="600" y="223.5" fill="#a1a1a6">Agentic Workflow</text></g>
+      <g class="fx d6"><rect x="676" y="206" width="94" height="26" rx="13" fill="#1d1d1f"/><text x="723" y="223.5" fill="#a1a1a6">Full-Stack</text></g>
+    </g>
+  </g>
+</svg>
