@@ -3,15 +3,15 @@
   <source media="(max-width: 600px)" srcset="./assets/banner-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Ihan · AI Product Engineer — 반복을 줄이고, 흐름을 만듭니다." src="./assets/banner-light.svg" width="100%">
+  <img alt="Ihan · AI Product Engineer — 의도를 설계하고, 제품으로 연결합니다." src="./assets/banner-light.svg" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/tagline-dark.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/tagline-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=C5EF82&amp;width=520&amp;height=42&amp;lines=AI+Products+%2F+Agent+Workflows%3BBuild+with+intent.+Document+the+why.">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=45652B&amp;width=520&amp;height=42&amp;lines=AI+Products+%2F+Agent+Workflows%3BBuild+with+intent.+Document+the+why.">
-  <img alt="AI Products / Agent Workflows — Build with intent. Document the why." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=45652B&amp;width=520&amp;height=42&amp;lines=AI+Products+%2F+Agent+Workflows%3BBuild+with+intent.+Document+the+why." width="620">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=DFC38C&amp;width=520&amp;height=42&amp;lines=AI+Products+%2F+Agent+Workflows%3BBuild+with+intent.+Document+the+why.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=8B6731&amp;width=520&amp;height=42&amp;lines=AI+Products+%2F+Agent+Workflows%3BBuild+with+intent.+Document+the+why.">
+  <img alt="AI Products / Agent Workflows — Build with intent. Document the why." src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=8B6731&amp;width=520&amp;height=42&amp;lines=AI+Products+%2F+Agent+Workflows%3BBuild+with+intent.+Document+the+why." width="620">
 </picture>
 
 <br>
@@ -130,9 +130,9 @@ IT 뉴스 · 정보처리기사 퀴즈 · 개발 용어를 모으는 정적 사�
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ihan0316&amp;locale=ko&amp;timezone=Asia%2FSeoul&amp;background=171b17&amp;ring=c5ef82&amp;fire=efad83&amp;currStreakLabel=c5ef82&amp;sideLabels=b6bfae&amp;sideNums=f2f4e9&amp;currStreakNum=f2f4e9&amp;dates=b6bfae&amp;stroke=3d4737&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true&amp;date_format=Y.n.j">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Ihan0316&amp;locale=ko&amp;timezone=Asia%2FSeoul&amp;background=f2f1e9&amp;ring=45652b&amp;fire=915130&amp;currStreakLabel=45652b&amp;sideLabels=59644f&amp;sideNums=252c22&amp;currStreakNum=252c22&amp;dates=59644f&amp;stroke=d0d6c5&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true&amp;date_format=Y.n.j">
-  <img alt="GitHub 기여 통계 — 총 기여·현재 연속 기여·최장 연속 기여" src="https://streak-stats.demolab.com/?user=Ihan0316&amp;locale=ko&amp;timezone=Asia%2FSeoul&amp;background=f2f1e9&amp;ring=45652b&amp;fire=915130&amp;currStreakLabel=45652b&amp;sideLabels=59644f&amp;sideNums=252c22&amp;currStreakNum=252c22&amp;dates=59644f&amp;stroke=d0d6c5&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true&amp;date_format=Y.n.j" width="620">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ihan0316&amp;locale=ko&amp;timezone=Asia%2FSeoul&amp;background=111316&amp;ring=dfc38c&amp;fire=dfc38c&amp;currStreakLabel=dfc38c&amp;sideLabels=b8ada0&amp;sideNums=f4ede3&amp;currStreakNum=f4ede3&amp;dates=b8ada0&amp;stroke=554b3a&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true&amp;date_format=Y.n.j">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Ihan0316&amp;locale=ko&amp;timezone=Asia%2FSeoul&amp;background=f6f1e8&amp;ring=8b6731&amp;fire=8b6731&amp;currStreakLabel=8b6731&amp;sideLabels=786957&amp;sideNums=29231f&amp;currStreakNum=29231f&amp;dates=786957&amp;stroke=d8c7a6&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true&amp;date_format=Y.n.j">
+  <img alt="GitHub 기여 통계 — 총 기여·현재 연속 기여·최장 연속 기여" src="https://streak-stats.demolab.com/?user=Ihan0316&amp;locale=ko&amp;timezone=Asia%2FSeoul&amp;background=f6f1e8&amp;ring=8b6731&amp;fire=8b6731&amp;currStreakLabel=8b6731&amp;sideLabels=786957&amp;sideNums=29231f&amp;currStreakNum=29231f&amp;dates=786957&amp;stroke=d8c7a6&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true&amp;date_format=Y.n.j" width="620">
 </picture>
 </a>
 

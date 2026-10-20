@@ -1,7 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title"><title id="title">Claude Code Toolkit — 훅 · 스킬 · 메모리 · MCP</title><g font-family="'Segoe UI','Malgun Gothic',sans-serif"><rect x="1" y="1" width="1198" height="208" rx="20" fill="#fafbf5" stroke="#d0d6c5"/><rect x="24" y="24" width="58" height="36" rx="18" fill="#f2f1e9" stroke="#d0d6c5"/><text x="53" y="48" fill="#915130" font-size="15" font-weight="700" text-anchor="middle">01</text><text x="106" y="49" fill="#59644f" font-size="13" letter-spacing="2">SELECTED WORK</text><text x="30" y="116" fill="#252c22" font-size="49" font-weight="750" letter-spacing="-1">Claude Code Toolkit</text><text x="32" y="166" fill="#59644f" font-size="23">훅 · 스킬 · 메모리 · MCP</text><rect x="1030" y="30" width="138" height="148" rx="18" fill="#f2f1e9"/><g transform="translate(1060 66) scale(3.25)" fill="none" stroke="#915130" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title"><title id="title">Claude Code Toolkit — 훅 · 스킬 · 메모리 · MCP</title><rect x="1" y="1" width="1198" height="218" rx="12" fill="#fdf9f2" stroke="#d8c7a6"/>
+<path d="M180 36v148M30 22h24m1092 176h24" stroke="#d8c7a6"/>
+<text x="39" y="143" font-family="Georgia,'Times New Roman',serif" font-size="88" font-style="italic" fill="#8b6731">01</text>
+<g font-family="'Segoe UI','Malgun Gothic',sans-serif"><text x="213" y="54" font-size="12" letter-spacing="3" fill="#786957">SELECTED WORK / 01</text><text x="208" y="116" font-family="Georgia,'Times New Roman',serif" font-size="48" fill="#29231f" letter-spacing="-1">Claude Code Toolkit</text><text x="213" y="166" fill="#786957" font-size="23">훅 · 스킬 · 메모리 · MCP</text></g>
+<circle cx="1103" cy="110" r="38" fill="none" stroke="#d8c7a6"/><g transform="translate(1081 88) scale(1.8333333333333333)" fill="none" stroke="#8b6731" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
   <path d="M7 7h10v10" />
   <path d="M7 17 17 7" />
-</g></g><metadata>ISC License
+</g><metadata>ISC License
 
 Copyright (c) 2026 Lucide Icons and Contributors
 
