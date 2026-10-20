@@ -1,11 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
-<title id="title">Ihan · AI Product Engineer</title><desc id="desc">반복을 줄이고, 흐름을 만듭니다. 민트와 앰버 빛의 궤도 안에 워크플로를 연결한 그래픽.</desc>
-<defs><radialGradient id="glow"><stop stop-color="#6ff7cc" stop-opacity=".23"/><stop offset="1" stop-color="#6ff7cc" stop-opacity="0"/></radialGradient><linearGradient id="beam"><stop stop-color="#6ff7cc"/><stop offset="1" stop-color="#82b5ff"/></linearGradient><clipPath id="frame"><rect width="1200" height="480" rx="20"/></clipPath></defs>
-<g clip-path="url(#frame)"><rect width="1200" height="480" fill="#081c24"/><g stroke="#274c58" stroke-width=".7" opacity=".35"><path d="M0 0v480"/><path d="M60 0v480"/><path d="M120 0v480"/><path d="M180 0v480"/><path d="M240 0v480"/><path d="M300 0v480"/><path d="M360 0v480"/><path d="M420 0v480"/><path d="M480 0v480"/><path d="M540 0v480"/><path d="M600 0v480"/><path d="M660 0v480"/><path d="M720 0v480"/><path d="M780 0v480"/><path d="M840 0v480"/><path d="M900 0v480"/><path d="M960 0v480"/><path d="M1020 0v480"/><path d="M1080 0v480"/><path d="M1140 0v480"/><path d="M1200 0v480"/><path d="M0 0h1200"/><path d="M0 60h1200"/><path d="M0 120h1200"/><path d="M0 180h1200"/><path d="M0 240h1200"/><path d="M0 300h1200"/><path d="M0 360h1200"/><path d="M0 420h1200"/><path d="M0 480h1200"/></g><ellipse cx="930" cy="190" rx="400" ry="330" fill="url(#glow)"/>
-<g fill="none" stroke="#274c58"><ellipse cx="945" cy="220" rx="230" ry="130" transform="rotate(-28 945 220)"/><ellipse cx="945" cy="220" rx="190" ry="175" transform="rotate(28 945 220)"/><circle cx="945" cy="220" r="112"/></g>
-<path d="M680 300C790 110 980 370 1170 130" stroke="url(#beam)" stroke-width="2" fill="none"/><circle cx="736" cy="233" r="6" fill="#6ff7cc"/><circle cx="1144" cy="160" r="8" fill="#ffd18b"/><circle cx="980" cy="50" r="4" fill="#82b5ff"/>
-<g font-family="'Segoe UI','Malgun Gothic',sans-serif"><rect x="52" y="49" width="8" height="8" fill="#6ff7cc"/><text x="73" y="59" fill="#6ff7cc" font-size="13" letter-spacing="3">AI PRODUCT ENGINEER</text>
-<text x="46" y="228" fill="#edfff7" font-size="154" font-weight="800" letter-spacing="-10">Ihan<tspan fill="#6ff7cc">.</tspan></text><text x="56" y="287" fill="#edfff7" font-size="28" font-weight="600">반복을 줄이고, 흐름을 만듭니다.</text><text x="56" y="325" fill="#a4c7cf" font-size="17">제품의 경험부터 에이전트의 실행 규칙까지.</text>
-<g font-size="12" font-weight="600"><rect x="56" y="357" width="112" height="30" rx="15" fill="#102c37" stroke="#274c58"/><text x="112" y="377" fill="#6ff7cc" text-anchor="middle">AI PRODUCTS</text><rect x="178" y="357" width="122" height="30" rx="15" fill="#102c37" stroke="#274c58"/><text x="239" y="377" fill="#82b5ff" text-anchor="middle">WORKFLOWS</text><rect x="310" y="357" width="124" height="30" rx="15" fill="#102c37" stroke="#274c58"/><text x="372" y="377" fill="#ffd18b" text-anchor="middle">AUTOMATION</text></g>
-<g transform="translate(754 126)"><rect x="10" y="10" width="334" height="192" rx="13" fill="#081c24" stroke="#274c58"/><rect width="334" height="192" rx="13" fill="#102c37" stroke="#274c58"/><path d="M0 42h334" stroke="#274c58"/><circle cx="21" cy="21" r="4" fill="#6ff7cc"/><circle cx="36" cy="21" r="4" fill="#ffd18b"/><circle cx="51" cy="21" r="4" fill="#82b5ff"/><text x="310" y="25" fill="#a4c7cf" font-size="10" text-anchor="end">WORKFLOW / LOCAL</text><g font-family="Consolas,monospace" font-size="17"><text x="24" y="80" fill="#6ff7cc">&gt; idea.connect()</text><text x="24" y="116" fill="#82b5ff">&gt; workflow.build()</text><text x="24" y="152" fill="#ffd18b">&gt; product.ship()</text></g></g>
-<path d="M56 423h1088" stroke="#274c58"/><text x="56" y="453" fill="#a4c7cf" font-size="12" letter-spacing="2">BUILD WITH INTENT. DOCUMENT THE WHY.</text><text x="1144" y="453" fill="#6ff7cc" font-size="12" text-anchor="end">IHAN0316 / GITHUB</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title"><title id="title">Ihan · AI Product Engineer. 아이디어를 제품으로, 반복을 워크플로로.</title><g font-family="'Segoe UI','Malgun Gothic',sans-serif">
+<rect width="724" height="520" rx="24" fill="#171b17"/>
+<rect x=".5" y=".5" width="723" height="519" rx="24" fill="none" stroke="#3d4737"/>
+<text x="48" y="53" fill="#b6bfae" font-size="14" letter-spacing="2">IHAN0316 / AI PRODUCT ENGINEER</text>
+<text x="40" y="225" fill="#f2f4e9" font-size="174" font-weight="800" letter-spacing="-12">Ihan<tspan fill="#c5ef82">.</tspan></text>
+<text x="48" y="292" fill="#f2f4e9" font-size="32" font-weight="650" letter-spacing="-1">아이디어를 제품으로,</text><text x="48" y="337" fill="#f2f4e9" font-size="32" font-weight="650" letter-spacing="-1">반복을 워크플로로.</text>
+<path d="M48 393h628" stroke="#3d4737"/>
+<text x="48" y="435" fill="#b6bfae" font-size="18">AI 제품 · 에이전트 도구 · 자동화</text>
+<text x="48" y="476" fill="#c5ef82" font-size="13" letter-spacing="2">BUILD WITH INTENT. DOCUMENT THE WHY.</text>
+<rect x="740" width="460" height="304" rx="24" fill="#c5ef82"/>
+<text x="772" y="45" fill="#25351b" font-size="13" letter-spacing="2">SYSTEMS THINKING</text>
+<g fill="none" stroke="#25351b" stroke-width="2"><path d="M823 129h68q16 0 16 16v45q0 16 16 16h142"/><path d="M907 145v-24q0-16 16-16h141" stroke-dasharray="4 6"/><circle cx="823" cy="129" r="20"/><rect x="1037" y="79" width="52" height="52" rx="14"/><rect x="1037" y="180" width="52" height="52" rx="14"/></g>
+<circle cx="823" cy="129" r="6" fill="#25351b"/><text x="772" y="273" fill="#25351b" font-size="20" font-weight="600">사람의 의도 → 실행 가능한 구조</text>
+<rect x="740" y="320" width="222" height="200" rx="24" fill="#222820" stroke="#3d4737"/>
+<text x="770" y="358" fill="#b6bfae" font-size="12" letter-spacing="1.5">01 / PRODUCT</text><text x="768" y="419" fill="#f2f4e9" font-size="28" font-weight="700">제품의 경험</text><text x="770" y="469" fill="#c5ef82" font-size="16">인터페이스 · AI</text>
+<rect x="978" y="320" width="222" height="200" rx="24" fill="#222820" stroke="#3d4737"/>
+<text x="1008" y="358" fill="#b6bfae" font-size="12" letter-spacing="1.5">02 / WORKFLOW</text><text x="1006" y="419" fill="#f2f4e9" font-size="28" font-weight="700">실행의 규칙</text><text x="1008" y="469" fill="#efad83" font-size="16">가드레일 · 자동화</text></g><g transform="translate(906 345) scale(1.125)" fill="none" stroke="#c5ef82" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="18" height="18" x="3" y="3" rx="2" />
+  <path d="M3 9h18" />
+  <path d="M9 21V9" />
+</g><g transform="translate(1144 345) scale(1.125)" fill="none" stroke="#efad83" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="8" height="8" x="3" y="3" rx="2" />
+  <path d="M7 11v4a2 2 0 0 0 2 2h4" />
+  <rect width="8" height="8" x="13" y="13" rx="2" />
+</g><g transform="translate(1126 26) scale(1.3333333333333333)" fill="none" stroke="#25351b" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="8" height="8" x="3" y="3" rx="2" />
+  <path d="M7 11v4a2 2 0 0 0 2 2h4" />
+  <rect width="8" height="8" x="13" y="13" rx="2" />
+</g><metadata>ISC License
+
+Copyright (c) 2026 Lucide Icons and Contributors
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot; AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+---
+
+The following Lucide icons are derived from the Feather project:
+
+airplay, alert-circle, alert-octagon, alert-triangle, aperture, arrow-down-circle, arrow-down-left, arrow-down-right, arrow-down, arrow-left-circle, arrow-left, arrow-right-circle, arrow-right, arrow-up-circle, arrow-up-left, arrow-up-right, arrow-up, at-sign, calendar, cast, check, chevron-down, chevron-left, chevron-right, chevron-up, chevrons-down, chevrons-left, chevrons-right, chevrons-up, circle, clipboard, clock, code, columns, command, compass, corner-down-left, corner-down-right, corner-left-down, corner-left-up, corner-right-down, corner-right-up, corner-up-left, corner-up-right, crosshair, database, divide-circle, divide-square, dollar-sign, download, external-link, feather, frown, hash, headphones, help-circle, info, italic, key, layout, life-buoy, link-2, link, loader, lock, log-in, log-out, maximize, meh, minimize, minimize-2, minus-circle, minus-square, minus, monitor, moon, more-horizontal, more-vertical, move, music, navigation-2, navigation, octagon, pause-circle, percent, plus-circle, plus-square, plus, power, radio, rss, search, server, share, shopping-bag, sidebar, smartphone, smile, square, table-2, tablet, target, terminal, trash-2, trash, triangle, tv, type, upload, x-circle, x-octagon, x-square, x, zoom-in, zoom-out
+
+The MIT License (MIT) (for the icons listed above)
+
+Copyright (c) 2013-present Cole Bemis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the &quot;Software&quot;), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</metadata></svg>

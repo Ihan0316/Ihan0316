@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/banner-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/banner-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
   <img alt="Ihan · AI Product Engineer — 반복을 줄이고, 흐름을 만듭니다." src="./assets/banner-light.svg" width="100%">
@@ -6,19 +8,21 @@
 
 <br>
 
-**AI를 기능에서 워크플로로 연결합니다.**
+**AI 제품과 개발자 도구를 만듭니다.**
 
-문제를 한 번 푸는 것보다, 같은 문제가 반복되지 않는 구조에 관심이 있습니다.
-AI 제품의 인터페이스부터 생성 파이프라인, 에이전트의 실행 규칙까지 만듭니다.
+인터페이스부터 생성 파이프라인, 에이전트의 실행 규칙까지 연결합니다.
+직접 만든 도구와 그 설계 이유를 함께 기록합니다.
 
 [이메일](mailto:ihann5726@gmail.com) &nbsp; / &nbsp; [포트폴리오](https://app.notion.com/p/SW-2df87486686f81489267e22291d6a111?source=copy_link) &nbsp; / &nbsp; [Claude 가이드](https://ihan0316.github.io/claude-code-toolkit/) &nbsp; / &nbsp; [Codex 가이드](https://ihan0316.github.io/codex-code-toolkit/)
 
 <br>
 
-## 직접 만들고, 기록하는 것
+## 대표 작업
 
 <a href="https://github.com/Ihan0316/claude-code-toolkit">
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/project-claude-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/project-claude-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/project-claude-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/project-claude-light.svg">
   <img alt="Claude Code Toolkit" src="./assets/project-claude-light.svg" width="100%">
@@ -36,6 +40,8 @@ AI 제품의 인터페이스부터 생성 파이프라인, 에이전트의 실�
 
 <a href="https://github.com/Ihan0316/codex-code-toolkit">
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/project-codex-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/project-codex-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/project-codex-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/project-codex-light.svg">
   <img alt="Codex Code Toolkit" src="./assets/project-codex-light.svg" width="100%">
@@ -53,6 +59,8 @@ Claude와 Codex의 실행 방식에 맞춰 규칙을 옮기고, 환경 차이를
 
 <a href="https://github.com/Ihan0316/ai-weekly-newsroom">
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/project-digest-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/project-digest-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/project-digest-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/project-digest-light.svg">
   <img alt="Daily Digest" src="./assets/project-digest-light.svg" width="100%">
@@ -68,9 +76,11 @@ IT 뉴스 · 정보처리기사 퀴즈 · 개발 용어를 모으는 정적 사�
 
 <br>
 
-## 주로 사용하는 도구
+## 도구와 기술
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/stack-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/stack-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
   <img alt="Python · TypeScript · React · PyTorch · Docker" src="./assets/stack-light.svg" width="100%">
@@ -114,3 +124,5 @@ IT 뉴스 · 정보처리기사 퀴즈 · 개발 용어를 모으는 정적 사�
 </picture>
 
 </details>
+
+<sub>아이콘: [Lucide](https://lucide.dev/) · [에셋 출처와 라이선스](./THIRD_PARTY_NOTICES.md)</sub>

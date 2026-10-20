@@ -1,0 +1,22 @@
+{
+  "project": "Lucide",
+  "source_commit": "c29c276f16590cf017126671535ad8c792be64d8",
+  "license": "ISC; LICENSE also retains the Feather-derived icon MIT notice",
+  "icons": [
+    {
+      "name": "workflow",
+      "source": "https://github.com/lucide-icons/lucide/blob/c29c276f16590cf017126671535ad8c792be64d8/icons/workflow.svg",
+      "sha256": "ae99ea8f56a2835a2cca35b2fbb57643ab73443610970dba23e24bd9df75cfec"
+    },
+    {
+      "name": "panels-top-left",
+      "source": "https://github.com/lucide-icons/lucide/blob/c29c276f16590cf017126671535ad8c792be64d8/icons/panels-top-left.svg",
+      "sha256": "321a2a5500f2b814a2e62eb73c4b01dc65c7334fe2e6f7d77517239383e26bb1"
+    },
+    {
+      "name": "arrow-up-right",
+      "source": "https://github.com/lucide-icons/lucide/blob/c29c276f16590cf017126671535ad8c792be64d8/icons/arrow-up-right.svg",
+      "sha256": "50b2503b9d11881142255466b7e3461d022b919735841c321d72003ac9959fe1"
+    }
+  ]
+}

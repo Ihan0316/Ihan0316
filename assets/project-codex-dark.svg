@@ -1,1 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title"><title id="title">Codex Code Toolkit — 지침 · 샌드박스 · 승인 · 자동화</title><defs><linearGradient id="tint"><stop stop-color="#102c37"/><stop offset="1" stop-color="#081c24"/></linearGradient></defs><rect x="1" y="1" width="1198" height="208" rx="14" fill="url(#tint)" stroke="#274c58"/><rect x="1" y="24" width="4" height="162" rx="2" fill="#6ff7cc"/><g font-family="'Segoe UI','Malgun Gothic',sans-serif"><text x="40" y="44" fill="#6ff7cc" font-size="12" letter-spacing="2">02 / GUARDRAILS / TOOLS</text><text x="38" y="106" fill="#edfff7" font-size="44" font-weight="750" letter-spacing="-1.2">Codex Code Toolkit</text><text x="40" y="150" fill="#a4c7cf" font-size="23">지침 · 샌드박스 · 승인 · 자동화</text><text x="40" y="183" fill="#6ff7cc" font-size="12" letter-spacing="1">OPEN REPOSITORY ↗</text><g transform="translate(840 35)"><rect x="10" y="10" width="294" height="132" rx="8" fill="#081c24" stroke="#274c58"/><rect width="294" height="132" rx="8" fill="#102c37" stroke="#274c58"/><path d="M0 30h294" stroke="#274c58"/><circle cx="16" cy="15" r="3" fill="#6ff7cc"/><circle cx="28" cy="15" r="3" fill="#a4c7cf"/><text x="20" y="73" fill="#6ff7cc" font-family="Consolas,monospace" font-size="24">&gt; codex</text><path d="M20 96h120m14 0h30" stroke="#274c58" stroke-width="5" stroke-linecap="round"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title"><title id="title">Codex Code Toolkit — 지침 · 샌드박스 · 승인 · 자동화</title><g font-family="'Segoe UI','Malgun Gothic',sans-serif"><rect x="1" y="1" width="1198" height="208" rx="20" fill="#222820" stroke="#3d4737"/><rect x="24" y="24" width="58" height="36" rx="18" fill="#171b17" stroke="#3d4737"/><text x="53" y="48" fill="#c5ef82" font-size="15" font-weight="700" text-anchor="middle">02</text><text x="106" y="49" fill="#b6bfae" font-size="13" letter-spacing="2">SELECTED WORK</text><text x="30" y="116" fill="#f2f4e9" font-size="49" font-weight="750" letter-spacing="-1">Codex Code Toolkit</text><text x="32" y="166" fill="#b6bfae" font-size="23">지침 · 샌드박스 · 승인 · 자동화</text><rect x="1030" y="30" width="138" height="148" rx="18" fill="#171b17"/><g transform="translate(1060 66) scale(3.25)" fill="none" stroke="#c5ef82" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M7 7h10v10" />
+  <path d="M7 17 17 7" />
+</g></g><metadata>ISC License
+
+Copyright (c) 2026 Lucide Icons and Contributors
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot; AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+---
+
+The following Lucide icons are derived from the Feather project:
+
+airplay, alert-circle, alert-octagon, alert-triangle, aperture, arrow-down-circle, arrow-down-left, arrow-down-right, arrow-down, arrow-left-circle, arrow-left, arrow-right-circle, arrow-right, arrow-up-circle, arrow-up-left, arrow-up-right, arrow-up, at-sign, calendar, cast, check, chevron-down, chevron-left, chevron-right, chevron-up, chevrons-down, chevrons-left, chevrons-right, chevrons-up, circle, clipboard, clock, code, columns, command, compass, corner-down-left, corner-down-right, corner-left-down, corner-left-up, corner-right-down, corner-right-up, corner-up-left, corner-up-right, crosshair, database, divide-circle, divide-square, dollar-sign, download, external-link, feather, frown, hash, headphones, help-circle, info, italic, key, layout, life-buoy, link-2, link, loader, lock, log-in, log-out, maximize, meh, minimize, minimize-2, minus-circle, minus-square, minus, monitor, moon, more-horizontal, more-vertical, move, music, navigation-2, navigation, octagon, pause-circle, percent, plus-circle, plus-square, plus, power, radio, rss, search, server, share, shopping-bag, sidebar, smartphone, smile, square, table-2, tablet, target, terminal, trash-2, trash, triangle, tv, type, upload, x-circle, x-octagon, x-square, x, zoom-in, zoom-out
+
+The MIT License (MIT) (for the icons listed above)
+
+Copyright (c) 2013-present Cole Bemis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the &quot;Software&quot;), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</metadata></svg>
