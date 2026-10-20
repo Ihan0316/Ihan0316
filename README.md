@@ -27,14 +27,8 @@
 
 ## 대표 작업
 
-<a href="https://github.com/Ihan0316/claude-code-toolkit">
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/project-claude-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/project-claude-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-claude-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/project-claude-light.svg">
-  <img alt="Claude Code Toolkit" src="./assets/project-claude-light.svg" width="100%">
-</picture>
+<a href="https://ihan0316.github.io/claude-code-toolkit/">
+  <img alt="Claude Code Toolkit 문서 사이트 실제 화면" src="./assets/screenshots/claude-toolkit-preview.png" width="100%">
 </a>
 
 **매번 설명하던 작업 방식을, 다시 쓸 수 있는 설정으로.**
@@ -46,14 +40,8 @@
 
 ---
 
-<a href="https://github.com/Ihan0316/codex-code-toolkit">
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/project-codex-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/project-codex-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-codex-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/project-codex-light.svg">
-  <img alt="Codex Code Toolkit" src="./assets/project-codex-light.svg" width="100%">
-</picture>
+<a href="https://ihan0316.github.io/codex-code-toolkit/">
+  <img alt="Codex Code Toolkit 문서 사이트 실제 화면" src="./assets/screenshots/codex-toolkit-preview.png" width="100%">
 </a>
 
 **작업은 에이전트에게, 실행 범위는 내 통제 아래.**
@@ -65,14 +53,8 @@ Claude와 Codex의 실행 방식에 맞춰 규칙을 옮기고, 환경 차이를
 
 ---
 
-<a href="https://github.com/Ihan0316/ai-weekly-newsroom">
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/project-digest-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/project-digest-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-digest-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/project-digest-light.svg">
-  <img alt="Daily Digest" src="./assets/project-digest-light.svg" width="100%">
-</picture>
+<a href="https://ihan0316.github.io/ai-weekly-newsroom/">
+  <img alt="Daily Digest 서비스 실제 화면" src="./assets/screenshots/daily-digest-preview.png" width="100%">
 </a>
 
 **뉴스를 읽고, 질문하고, 짧게 배우는 매일의 페이지.**
@@ -122,13 +104,9 @@ IT 뉴스 · 정보처리기사 퀴즈 · 개발 용어를 모으는 정적 사�
 
 ## 기여와 활동
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ihan0316/Ihan0316/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ihan0316/Ihan0316/output/github-snake.svg">
-  <img alt="GitHub 기여 그래프" src="https://raw.githubusercontent.com/Ihan0316/Ihan0316/output/github-snake.svg" width="100%">
-</picture>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+
+<a href="https://github.com/Ihan0316?tab=overview">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ihan0316&amp;locale=ko&amp;timezone=Asia%2FSeoul&amp;background=111316&amp;ring=dfc38c&amp;fire=dfc38c&amp;currStreakLabel=dfc38c&amp;sideLabels=b8ada0&amp;sideNums=f4ede3&amp;currStreakNum=f4ede3&amp;dates=b8ada0&amp;stroke=554b3a&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true&amp;date_format=Y.n.j">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Ihan0316&amp;locale=ko&amp;timezone=Asia%2FSeoul&amp;background=f6f1e8&amp;ring=8b6731&amp;fire=8b6731&amp;currStreakLabel=8b6731&amp;sideLabels=786957&amp;sideNums=29231f&amp;currStreakNum=29231f&amp;dates=786957&amp;stroke=d8c7a6&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true&amp;date_format=Y.n.j">
