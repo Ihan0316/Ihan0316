@@ -17,7 +17,13 @@ AI 제품의 인터페이스부터 생성 파이프라인, 에이전트의 실�
 
 ## 직접 만들고, 기록하는 것
 
-### 01 &nbsp; [Claude Code Toolkit](https://github.com/Ihan0316/claude-code-toolkit)
+<a href="https://github.com/Ihan0316/claude-code-toolkit">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-claude-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-claude-light.svg">
+  <img alt="Claude Code Toolkit" src="./assets/project-claude-light.svg" width="100%">
+</picture>
+</a>
 
 **매번 설명하던 작업 방식을, 다시 쓸 수 있는 설정으로.**
 
@@ -28,7 +34,13 @@ AI 제품의 인터페이스부터 생성 파이프라인, 에이전트의 실�
 
 ---
 
-### 02 &nbsp; [Codex Code Toolkit](https://github.com/Ihan0316/codex-code-toolkit)
+<a href="https://github.com/Ihan0316/codex-code-toolkit">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-codex-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-codex-light.svg">
+  <img alt="Codex Code Toolkit" src="./assets/project-codex-light.svg" width="100%">
+</picture>
+</a>
 
 **작업은 에이전트에게, 실행 범위는 내 통제 아래.**
 
@@ -39,7 +51,13 @@ Claude와 Codex의 실행 방식에 맞춰 규칙을 옮기고, 환경 차이를
 
 ---
 
-### 03 &nbsp; [Daily Digest](https://github.com/Ihan0316/ai-weekly-newsroom)
+<a href="https://github.com/Ihan0316/ai-weekly-newsroom">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-digest-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-digest-light.svg">
+  <img alt="Daily Digest" src="./assets/project-digest-light.svg" width="100%">
+</picture>
+</a>
 
 **뉴스를 읽고, 질문하고, 짧게 배우는 매일의 페이지.**
 
@@ -52,6 +70,15 @@ IT 뉴스 · 정보처리기사 퀴즈 · 개발 용어를 모으는 정적 사�
 
 ## 주로 사용하는 도구
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+  <img alt="Python · TypeScript · React · PyTorch · Docker" src="./assets/stack-light.svg" width="100%">
+</picture>
+
+<details>
+<summary>전체 기술 스택</summary>
+
 | 영역 | 도구 |
 | :--- | :--- |
 | 언어 | Python · TypeScript · JavaScript |
@@ -59,6 +86,8 @@ IT 뉴스 · 정보처리기사 퀴즈 · 개발 용어를 모으는 정적 사�
 | 서버 | Django · Flask · Node.js |
 | AI · 데이터 | PyTorch · RAG 파이프라인 · MySQL |
 | 운영 | Docker · GCP · Firebase · GitHub Actions |
+
+</details>
 
 <br>
 
