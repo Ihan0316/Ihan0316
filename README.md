@@ -142,6 +142,7 @@ IT 뉴스·정보처리기사 퀴즈·개발 용어를 모으는 정적 사이�
   <img alt="GitHub 기여 통계 — 총 기여·현재 연속 기여·최장 연속 기여" src="https://streak-stats.demolab.com/?user=Ihan0316&amp;locale=ko&amp;timezone=Asia%2FSeoul&amp;background=f6f1e8&amp;ring=8b6731&amp;fire=8b6731&amp;currStreakLabel=8b6731&amp;sideLabels=786957&amp;sideNums=29231f&amp;currStreakNum=29231f&amp;dates=786957&amp;stroke=d8c7a6&amp;hide_border=true&amp;border_radius=16&amp;disable_animations=true&amp;date_format=Y.n.j" width="520">
 </picture>
 </a>
+
 [전체 활동 ↗](https://github.com/Ihan0316?tab=overview) · 외부 통계는 캐시로 갱신이 늦을 수 있습니다.
 
 </details>
