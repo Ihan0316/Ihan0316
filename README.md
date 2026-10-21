@@ -36,7 +36,14 @@
 <details>
 <summary>실제 화면 크게 보기</summary>
 
-![Claude Code Toolkit 실제 화면](./assets/screenshots/claude-toolkit-preview.png)
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/detail-screen-claude-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/detail-screen-claude-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/detail-screen-claude-dark.svg">
+  <img alt="Claude Code Toolkit 실제 화면" src="./assets/detail-screen-claude-light.svg" width="100%">
+</picture>
+
+[원본 이미지 ↗](./assets/screenshots/claude-toolkit-preview.png) · [서비스 열기 ↗](https://ihan0316.github.io/claude-code-toolkit/)
 
 </details>
 
@@ -61,7 +68,14 @@
 <details>
 <summary>실제 화면 크게 보기</summary>
 
-![Codex Code Toolkit 실제 화면](./assets/screenshots/codex-toolkit-preview.png)
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/detail-screen-codex-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/detail-screen-codex-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/detail-screen-codex-dark.svg">
+  <img alt="Codex Code Toolkit 실제 화면" src="./assets/detail-screen-codex-light.svg" width="100%">
+</picture>
+
+[원본 이미지 ↗](./assets/screenshots/codex-toolkit-preview.png) · [서비스 열기 ↗](https://ihan0316.github.io/codex-code-toolkit/)
 
 </details>
 
@@ -86,7 +100,14 @@ IT 뉴스·정보처리기사 퀴즈·개발 용어를 모으는 정적 사이�
 <details>
 <summary>실제 화면 크게 보기</summary>
 
-![Daily Digest 실제 화면](./assets/screenshots/daily-digest-preview.png)
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/detail-screen-digest-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/detail-screen-digest-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/detail-screen-digest-dark.svg">
+  <img alt="Daily Digest 실제 화면" src="./assets/detail-screen-digest-light.svg" width="100%">
+</picture>
+
+[원본 이미지 ↗](./assets/screenshots/daily-digest-preview.png) · [서비스 열기 ↗](https://ihan0316.github.io/ai-weekly-newsroom/)
 
 </details>
 
@@ -105,22 +126,24 @@ IT 뉴스·정보처리기사 퀴즈·개발 용어를 모으는 정적 사이�
 <details>
 <summary>전체 기술 스택</summary>
 
-| 영역 | 도구 |
-| :--- | :--- |
-| 언어 | Python · TypeScript · JavaScript |
-| 인터페이스 | React · Next.js · Tailwind CSS |
-| 서버 | Django · Flask · Node.js |
-| AI · 데이터 | PyTorch · RAG 파이프라인 · MySQL |
-| 운영 | Docker · GCP · Firebase · GitHub Actions |
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/detail-stack-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/detail-stack-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/detail-stack-dark.svg">
+  <img alt="전체 기술 스택: Python, TypeScript, JavaScript, React, Next.js, Tailwind CSS, Django, Flask, Node.js, PyTorch, RAG 파이프라인, MySQL, Docker, GCP, Firebase, GitHub Actions" src="./assets/detail-stack-light.svg" width="100%">
+</picture>
 
 </details>
 
 <details>
 <summary>그 밖의 제품 작업 · 비공개</summary>
 
-**Alan Lab** — AI 학습·문제 생성 플랫폼. 페이즈 기반 학습 구조, 생성 파이프라인과 학습 UX를 설계합니다.
-
-**Ragexam** — 근거를 추적하는 RAG 시험 플랫폼. 구조적 PDF 분할, grounding, SSE 기반 실시간 상호작용을 다룹니다.
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/detail-private-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/detail-private-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/detail-private-dark.svg">
+  <img alt="비공개 제품: Alan Lab — AI 학습·문제 생성 플랫폼. Ragexam — 근거를 추적하는 RAG 시험 플랫폼." src="./assets/detail-private-light.svg" width="100%">
+</picture>
 
 </details>
 
