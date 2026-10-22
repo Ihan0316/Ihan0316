@@ -1,3 +1,5 @@
+**한국어** · [English](./README.en.md) · [日本語](./README.ja.md) · [简体中文](./README.zh-CN.md)
+
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/banner-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="./assets/banner-mobile-light.svg">
@@ -9,7 +11,9 @@
 **AI 제품과 개발자 도구를 만듭니다.**<br>
 인터페이스부터 생성 파이프라인, 에이전트의 실행 규칙까지 연결합니다.
 
-[메일 ↗](mailto:ihann5726@gmail.com) &nbsp; · &nbsp; [포트폴리오 ↗](https://app.notion.com/p/SW-2df87486686f81489267e22291d6a111?source=copy_link) &nbsp; · &nbsp; [Claude 가이드 ↗](https://ihan0316.github.io/claude-code-toolkit/) &nbsp; · &nbsp; [Codex 가이드 ↗](https://ihan0316.github.io/codex-code-toolkit/)
+**메일** · `ihann5726@gmail.com` · [Gmail로 쓰기 ↗](https://mail.google.com/mail/?view=cm&fs=1&to=ihann5726%40gmail.com)
+
+[포트폴리오 ↗](https://app.notion.com/p/SW-2df87486686f81489267e22291d6a111?source=copy_link) &nbsp; · &nbsp; [Claude 가이드 ↗](https://ihan0316.github.io/claude-code-toolkit/) &nbsp; · &nbsp; [Codex 가이드 ↗](https://ihan0316.github.io/codex-code-toolkit/)
 
 <br>
 
