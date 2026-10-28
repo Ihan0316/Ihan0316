@@ -159,10 +159,10 @@ IT 뉴스·정보처리기사 퀴즈·개발 용어를 모으는 정적 사이�
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/ai-usage-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="./assets/ai-usage-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/ai-usage-dark.svg">
-  <img alt="Claude Code · Codex 로컬 사용 기록 — 누적 토큰, 입력 캐시 비율, 최근 26주 활동" src="./assets/ai-usage-light.svg" width="100%">
+  <img alt="Claude Code · Codex 로컬 사용 기록 — 누적 토큰, API 환산 추정액 USD·KRW, 캐시 비율, 최근 26주 활동" src="./assets/ai-usage-light.svg" width="100%">
 </picture>
 
-<sub>보관된 로컬 로그 기준 · 수동 갱신 스냅샷 · [집계 기준](./data/AI_USAGE.md)</sub>
+<sub>보관된 로컬 로그 기준 · API 환산 추정액이며 실제 결제액과 다름 · [집계 기준](./data/AI_USAGE.md) · [단가·환율 근거](./data/AI_USAGE_COST.md)</sub>
 
 <br>
 

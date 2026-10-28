@@ -1,25 +1,25 @@
 {
-  "schema_version": 1,
-  "generated_at": "2026-10-28T09:40:39+09:00",
+  "schema_version": 2,
+  "generated_at": "2026-10-28T10:05:42+09:00",
   "timezone": "Asia/Seoul",
   "coverage": "retained local Claude Code and Codex logs only",
   "first_day": "2026-07-03",
   "last_day": "2026-10-28",
   "totals": {
     "claude": {
-      "input": 1141160,
-      "cache_write": 360588120,
-      "cache_read": 14368736262,
-      "output": 44010635
+      "input": 1141456,
+      "cache_write": 360797049,
+      "cache_read": 14370599899,
+      "output": 44068524
     },
     "codex": {
-      "input": 13054959,
+      "input": 14524243,
       "cache_write": 0,
-      "cache_read": 413010304,
-      "output": 1990295
+      "cache_read": 437005824,
+      "output": 2076017
     }
   },
-  "total_tokens": 15202531735,
+  "total_tokens": 15230213012,
   "cache_read_percent": 97.5,
   "daily_tokens": {
     "2026-07-03": {
@@ -271,13 +271,240 @@
       "codex": 181976896
     },
     "2026-10-28": {
-      "claude": 16327018,
-      "codex": 86145544
+      "claude": 18457769,
+      "codex": 111696070
     }
   },
   "diagnostics": {
-    "files": 959,
+    "files": 961,
     "invalid_json_lines": 0,
-    "unusable_usage_records": 0
+    "unusable_usage_records": 0,
+    "cache_lifetime_mismatch": 0,
+    "model_conflicts": 0,
+    "codex_request_counter_mismatch": 1
+  },
+  "models": {
+    "claude-fable-5": {
+      "tokens": {
+        "input": 9427,
+        "cache_write": 27278688,
+        "cache_read": 1222402914,
+        "output": 2460466
+      },
+      "pricing_tokens": {
+        "input": 9427,
+        "cache_write_5m": 793909,
+        "cache_write_1h": 26484779,
+        "cache_read": 1222402914,
+        "output": 2460466
+      },
+      "unpriced_tokens": 0,
+      "long_context_requests": 0,
+      "first_day": "2026-07-31",
+      "last_day": "2026-08-27"
+    },
+    "claude-fable-5-1": {
+      "tokens": {
+        "input": 128467,
+        "cache_write": 22766471,
+        "cache_read": 888451056,
+        "output": 3233196
+      },
+      "pricing_tokens": {
+        "input": 128467,
+        "cache_write_5m": 2532473,
+        "cache_write_1h": 20233998,
+        "cache_read": 888451056,
+        "output": 3233196
+      },
+      "unpriced_tokens": 0,
+      "long_context_requests": 0,
+      "first_day": "2026-09-02",
+      "last_day": "2026-10-28"
+    },
+    "claude-opus-4-8": {
+      "tokens": {
+        "input": 300776,
+        "cache_write": 30581027,
+        "cache_read": 361274974,
+        "output": 1635489
+      },
+      "pricing_tokens": {
+        "input": 300776,
+        "cache_write_5m": 625742,
+        "cache_write_1h": 29955285,
+        "cache_read": 361274974,
+        "output": 1635489
+      },
+      "unpriced_tokens": 0,
+      "long_context_requests": 0,
+      "first_day": "2026-07-03",
+      "last_day": "2026-10-26"
+    },
+    "claude-opus-5": {
+      "tokens": {
+        "input": 672723,
+        "cache_write": 169885238,
+        "cache_read": 7900579486,
+        "output": 21818000
+      },
+      "pricing_tokens": {
+        "input": 672723,
+        "cache_write_5m": 36356565,
+        "cache_write_1h": 133528673,
+        "cache_read": 7900579486,
+        "output": 21818000
+      },
+      "unpriced_tokens": 0,
+      "long_context_requests": 0,
+      "first_day": "2026-07-27",
+      "last_day": "2026-10-28"
+    },
+    "claude-opus-5-5": {
+      "tokens": {
+        "input": 29690,
+        "cache_write": 108257789,
+        "cache_read": 3948767880,
+        "output": 14786077
+      },
+      "pricing_tokens": {
+        "input": 29690,
+        "cache_write_5m": 53531953,
+        "cache_write_1h": 54725836,
+        "cache_read": 3948767880,
+        "output": 14786077
+      },
+      "unpriced_tokens": 0,
+      "long_context_requests": 0,
+      "first_day": "2026-09-28",
+      "last_day": "2026-10-28"
+    },
+    "claude-sonnet-4-6": {
+      "tokens": {
+        "input": 7,
+        "cache_write": 38238,
+        "cache_read": 75810,
+        "output": 359
+      },
+      "pricing_tokens": {
+        "input": 7,
+        "cache_write_5m": 0,
+        "cache_write_1h": 38238,
+        "cache_read": 75810,
+        "output": 359
+      },
+      "unpriced_tokens": 0,
+      "long_context_requests": 0,
+      "first_day": "2026-09-03",
+      "last_day": "2026-09-03"
+    },
+    "claude-sonnet-5": {
+      "tokens": {
+        "input": 138,
+        "cache_write": 770135,
+        "cache_read": 37393933,
+        "output": 36201
+      },
+      "pricing_tokens": {
+        "input": 138,
+        "cache_write_5m": 0,
+        "cache_write_1h": 770135,
+        "cache_read": 37393933,
+        "output": 36201
+      },
+      "unpriced_tokens": 0,
+      "long_context_requests": 0,
+      "first_day": "2026-08-03",
+      "last_day": "2026-09-03"
+    },
+    "claude-sonnet-5-5": {
+      "tokens": {
+        "input": 228,
+        "cache_write": 1219463,
+        "cache_read": 11653846,
+        "output": 98736
+      },
+      "pricing_tokens": {
+        "input": 228,
+        "cache_write_5m": 163557,
+        "cache_write_1h": 1055906,
+        "cache_read": 11653846,
+        "output": 98736
+      },
+      "unpriced_tokens": 0,
+      "long_context_requests": 0,
+      "first_day": "2026-10-07",
+      "last_day": "2026-10-28"
+    },
+    "codex-auto-review": {
+      "tokens": {
+        "input": 9683691,
+        "cache_write": 0,
+        "cache_read": 97786240,
+        "output": 93364
+      },
+      "pricing_tokens": {
+        "input": 9320443,
+        "cache_read": 95907328,
+        "output": 90729
+      },
+      "unpriced_tokens": 2244795,
+      "long_context_requests": 0,
+      "first_day": "2026-10-26",
+      "last_day": "2026-10-28"
+    },
+    "gpt-6.1-sol": {
+      "tokens": {
+        "input": 4840552,
+        "cache_write": 0,
+        "cache_read": 339219584,
+        "output": 1982653
+      },
+      "pricing_tokens": {
+        "input": 2531491,
+        "cache_read": 139537024,
+        "output": 902156,
+        "long_input": 2309061,
+        "long_cache_read": 199682560,
+        "long_output": 1080497
+      },
+      "unpriced_tokens": 0,
+      "long_context_requests": 570,
+      "first_day": "2026-10-26",
+      "last_day": "2026-10-28"
+    }
+  },
+  "cost": {
+    "basis": "2026-10-28 public Standard global API list-price equivalent; not historical billing or subscription cost",
+    "price_date": "2026-10-28",
+    "fx_date": "2026-10-27",
+    "usd": "11200.98",
+    "krw": "14872087",
+    "krw_per_usd": "1327.748878923766816143497758",
+    "usd_by_model_unrounded": {
+      "claude-fable-5": "1885.1399265",
+      "claude-fable-5-1": "821.3931065",
+      "claude-opus-4-8": "526.4923295",
+      "claude-opus-5": "6061.61861925",
+      "claude-opus-5-5": "1791.060329",
+      "claude-sonnet-4-6": "0.257577",
+      "claude-sonnet-5": "10.9216126",
+      "claude-sonnet-5-5": "6.7857171",
+      "codex-auto-review": "3.89110996",
+      "gpt-6.1-sol": "93.4184554"
+    },
+    "priced_tokens": 15227968217,
+    "unpriced_tokens_by_model": {
+      "codex-auto-review": 2244795
+    },
+    "model_mappings": {
+      "codex-auto-review": {
+        "target": "gpt-5.6-luna",
+        "effective_from": "2026-07-31",
+        "basis": "OpenAI public rollout announcement, KST date; actual per-request backend identity is not exposed in local logs",
+        "source": "https://x.com/OpenAI/status/2082878180478910571"
+      }
+    },
+    "coverage_percent": 99.99
   }
 }

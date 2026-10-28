@@ -1,19 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="282" viewBox="0 0 1200 282" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
 <title id="title">Ihan · AI 사용 기록</title>
-<desc id="desc">보관된 로컬 Claude Code·Codex 로그 기준 15,202,531,735 토큰. 입력 중 캐시 읽기 97.5%. 최근 26주 사용량. 실제 결제액 아님.</desc>
-<rect x="1" y="1" width="1198" height="280" rx="16" fill="#FFFCF6" stroke="#D8C7A6"/>
+<desc id="desc">보관된 로컬 Claude Code·Codex 로그 기준 15,230,213,012 토큰. 입력 중 캐시 읽기 97.5%. 최근 26주 사용량. 실제 결제액 아님.</desc>
+<rect x="1" y="1" width="1198" height="348" rx="16" fill="#FFFCF6" stroke="#D8C7A6"/>
 <text x="28" y="35" fill="#8B6731" font-family="'Consolas','SFMono-Regular',monospace" font-size="13" font-weight="600">AI / USAGE LOG</text>
 <text x="1172" y="35" fill="#786957" font-family="'Consolas','SFMono-Regular',monospace" font-size="13" font-weight="400" text-anchor="end">@Ihan0316</text>
 <text x="28" y="65" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="12" font-weight="400">2026-07-03 — 2026-10-28 · KST</text>
 <text x="28" y="107" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="13" font-weight="400">보관 기록 누적 토큰</text>
-<text x="28" y="164" fill="#8B6731" font-family="'Consolas','SFMono-Regular',monospace" font-size="52" font-weight="600">15.2B</text>
+<text x="28" y="164" fill="#8B6731" font-family="'Consolas','SFMono-Regular',monospace" font-size="52" font-weight="600">15.23B</text>
 <text x="28" y="194" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="13" font-weight="400">입력 중 캐시 읽기 97.5%</text>
-<text x="365" y="107" fill="#786957" font-family="'Consolas','SFMono-Regular',monospace" font-size="12" font-weight="400">SOURCE / TOKENS</text>
-<text x="365" y="143" fill="#29231F" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="15" font-weight="400">Claude Code</text>
-<text x="600" y="143" fill="#8B6731" font-family="'Consolas','SFMono-Regular',monospace" font-size="18" font-weight="600" text-anchor="end">14.77B</text>
-<text x="365" y="180" fill="#29231F" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="15" font-weight="400">Codex</text>
-<text x="600" y="180" fill="#8B6731" font-family="'Consolas','SFMono-Regular',monospace" font-size="18" font-weight="600" text-anchor="end">428.06M</text>
-<path d="M335 87V207 M650 87V207" stroke="#D8C7A6"/>
+<text x="365" y="107" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="13" font-weight="400">API 환산 추정액 · 표준 단가</text>
+<text x="365" y="148" fill="#8B6731" font-family="'Consolas','SFMono-Regular',monospace" font-size="30" font-weight="600">$ 11,200.98</text>
+<text x="365" y="187" fill="#8B6731" font-family="'Consolas','SFMono-Regular',monospace" font-size="25" font-weight="600">₩ 14,872,087</text>
+<text x="365" y="216" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="12" font-weight="400">환산 범위: 전체 토큰의 99.99%</text>
+<text x="365" y="237" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="12" font-weight="400">검토 모델: 공식 발표로 Luna 매핑</text>
+<text x="28" y="229" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="13" font-weight="400">Claude Code</text>
+<text x="305" y="229" fill="#8B6731" font-family="'Consolas','SFMono-Regular',monospace" font-size="16" font-weight="600" text-anchor="end">14.78B</text>
+<text x="28" y="256" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="13" font-weight="400">Codex</text>
+<text x="305" y="256" fill="#8B6731" font-family="'Consolas','SFMono-Regular',monospace" font-size="16" font-weight="600" text-anchor="end">453.61M</text>
+<path d="M335 87V267 M650 87V267" stroke="#D8C7A6"/>
 <text x="686" y="95" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="12" font-weight="400">최근 26주 · 일별 토큰</text>
 <rect x="686" y="110" width="13" height="13" rx="3" fill="#EEE7DA"><title>2026-05-03: 0 tokens</title></rect>
 <rect x="686" y="128" width="13" height="13" rx="3" fill="#EEE7DA"><title>2026-05-04: 0 tokens</title></rect>
@@ -193,7 +197,8 @@
 <rect x="1136" y="110" width="13" height="13" rx="3" fill="#DBCCAF"><title>2026-10-25: 1,756,251 tokens</title></rect>
 <rect x="1136" y="128" width="13" height="13" rx="3" fill="#765221"><title>2026-10-26: 570,352,455 tokens</title></rect>
 <rect x="1136" y="146" width="13" height="13" rx="3" fill="#765221"><title>2026-10-27: 513,688,263 tokens</title></rect>
-<rect x="1136" y="164" width="13" height="13" rx="3" fill="#B99B67"><title>2026-10-28: 102,472,562 tokens</title></rect>
-<text x="28" y="243" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="12" font-weight="400">로컬 보관 로그 기준 · 전체 계정 사용량과 다를 수 있음</text>
-<text x="28" y="263" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="11" font-weight="400">수동 갱신 스냅샷 · 2026-10-28 · 결제액 미표시</text>
+<rect x="1136" y="164" width="13" height="13" rx="3" fill="#B99B67"><title>2026-10-28: 130,153,839 tokens</title></rect>
+<text x="28" y="296" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="12" font-weight="400">API 환산액 ≠ 실제 결제액 · 보관된 로컬 기록 기준</text>
+<text x="28" y="317" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="11" font-weight="400">단가 2026-10-28 · 환율 2026-10-27 · USD/KRW 1,327.75</text>
+<text x="28" y="334" fill="#786957" font-family="'Malgun Gothic','Apple SD Gothic Neo','Segoe UI',sans-serif" font-size="11" font-weight="400">수동 갱신 2026-10-28 · 환산 제외 2.24M tokens</text>
 </svg>

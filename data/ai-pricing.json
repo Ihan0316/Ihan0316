@@ -1,0 +1,40 @@
+{
+  "verified_on": "2026-10-28",
+  "basis": "2026-10-28 public Standard global API list-price equivalent; not historical billing or subscription cost",
+  "currency": "USD",
+  "unit": "per 1000000 tokens",
+  "sources": {
+    "anthropic": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "openai": "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
+    "openai_luna": "https://developers.openai.com/api/docs/models/gpt-5.6-luna",
+    "auto_review_mapping": "https://x.com/OpenAI/status/2082878180478910571",
+    "auto_review_billing": "https://help.openai.com/en/articles/20001415-chatgpt-rate-card-enterprise-token-based-pricing",
+    "exchange": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+  },
+  "fx": {
+    "date": "2026-10-27",
+    "base": "EUR",
+    "usd_per_eur": "1.1150",
+    "krw_per_eur": "1480.44",
+    "calculation": "KRW per USD = krw_per_eur / usd_per_eur"
+  },
+  "models": {
+    "claude-opus-5": {"input": "5", "cache_write_5m": "6.25", "cache_write_1h": "10", "cache_read": "0.50", "output": "25"},
+    "claude-opus-5-5": {"input": "4", "cache_write_5m": "5", "cache_write_1h": "8", "cache_read": "0.20", "output": "20"},
+    "claude-opus-4-8": {"input": "5", "cache_write_5m": "6.25", "cache_write_1h": "10", "cache_read": "0.50", "output": "25"},
+    "claude-sonnet-5-5": {"input": "2", "cache_write_5m": "2.50", "cache_write_1h": "4", "cache_read": "0.10", "output": "10"},
+    "claude-sonnet-5": {"input": "2", "cache_write_5m": "2.50", "cache_write_1h": "4", "cache_read": "0.20", "output": "10"},
+    "claude-sonnet-4-6": {"input": "3", "cache_write_5m": "3.75", "cache_write_1h": "6", "cache_read": "0.30", "output": "15"},
+    "claude-fable-5-1": {"input": "10", "cache_write_5m": "12.50", "cache_write_1h": "20", "cache_read": "0.25", "output": "50"},
+    "claude-fable-5": {"input": "10", "cache_write_5m": "12.50", "cache_write_1h": "20", "cache_read": "1", "output": "50"},
+    "gpt-6.1-sol": {"input": "2", "cache_read": "0.10", "cache_write_30m": "2.50", "cache_write_12h": "5", "output": "10", "long_context_threshold": 272000, "long_input_multiplier": "2", "long_output_multiplier": "1.5"},
+    "gpt-5.6-luna": {"input": "0.20", "cache_read": "0.02", "cache_write_30m": "0.25", "output": "1.20", "long_context_threshold": 272000, "long_input_multiplier": "2", "long_output_multiplier": "1.5"}
+  },
+  "model_aliases": {
+    "codex-auto-review": {
+      "target": "gpt-5.6-luna",
+      "effective_from": "2026-07-31",
+      "basis": "OpenAI public rollout announcement, KST date; actual per-request backend identity is not exposed in local logs"
+    }
+  }
+}
