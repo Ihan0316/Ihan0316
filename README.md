@@ -153,6 +153,19 @@ IT 뉴스·정보처리기사 퀴즈·개발 용어를 모으는 정적 사이�
 
 <br>
 
+## AI 사용 기록
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/ai-usage-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/ai-usage-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ai-usage-dark.svg">
+  <img alt="Claude Code · Codex 로컬 사용 기록 — 누적 토큰, 입력 캐시 비율, 최근 26주 활동" src="./assets/ai-usage-light.svg" width="100%">
+</picture>
+
+<sub>보관된 로컬 로그 기준 · 수동 갱신 스냅샷 · [집계 기준](./data/AI_USAGE.md)</sub>
+
+<br>
+
 ## 기여와 기록
 
 프로젝트의 변경 이력과 공개 기여 기록을 GitHub에서 확인할 수 있습니다.
@@ -177,3 +190,4 @@ IT 뉴스·정보처리기사 퀴즈·개발 용어를 모으는 정적 사이�
 ---
 
 <sub>Build with intent. Document the why. &nbsp; · &nbsp; [에셋 출처](./THIRD_PARTY_NOTICES.md)</sub>
+
